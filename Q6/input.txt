@@ -1,0 +1,2 @@
+this a text file 
+its name is input.txt.
